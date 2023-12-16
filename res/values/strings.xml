@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="C">C</string>
+    <string name="open_parenthesis">(</string>
+    <string name="close_parenthesis">)</string>
+    <string name="division">/</string>
+
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="multiplication">*</string>
+
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="subtraction">-</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="addition">+</string>
+
+    <string name="signs">+/-</string>
+    <string name="zero">0</string>
+    <string name="decimal_point">.</string>
+    <string name="equals">=</string>
+
+    <string name="maximumLengthMessage">Υou exceeded the digit limit.</string>
+    <string name="invalidFormatMessage">Invalid format.</string>
+
+    <string name="networkAccessMessage">Make sure your device has access to a network.</string>
+    <string name="internetAccessMessage">Make sure your network connection has access to the internet.</string>
+</resources>

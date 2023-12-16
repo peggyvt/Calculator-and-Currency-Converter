@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_width">85dp</dimen>
+    <dimen name="layout_width_converter">120dp</dimen>
+    <dimen name="layout_height">85dp</dimen>
+    <dimen name="layout_height_spinner">35dp</dimen>
+    <dimen name="layout_margin">4dp</dimen>
+    <dimen name="corner_radius">40dp</dimen>
+    <dimen name="txt_margin">8dp</dimen>
+    <dimen name="txt_size">35sp</dimen>
+    <dimen name="txt_size_special">30sp</dimen>
+</resources>
